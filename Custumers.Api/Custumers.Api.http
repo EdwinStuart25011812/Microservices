@@ -1,0 +1,10 @@
+@Custumers.Api_HostAddress = https://localhost:7142
+
+GET {{Custumers.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{Custumers.Api_HostAddress}}/weatherforecast
+
+###
